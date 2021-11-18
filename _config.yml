@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Enrique Cido"
+  name             : "Alejandro González"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Visca El Barca"
-  location         : "Plaza de Cibeles"
+  bio              : "Desplegando webs"
+  location         : "Educación ULL"
   email            :
   links:
     - label: "Email"
