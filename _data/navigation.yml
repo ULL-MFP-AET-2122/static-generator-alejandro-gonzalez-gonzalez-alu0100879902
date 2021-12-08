@@ -6,7 +6,7 @@ main:
     url: /docencia
   - title: "Blog"
     url: /blog
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Educación"
+    url: /educacion
   # - title: "Sitemap"
   #   url: /sitemap/
